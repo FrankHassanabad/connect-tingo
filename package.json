@@ -1,0 +1,25 @@
+{
+  "name": "connect-tingo",
+  "version": "1.0.0",
+  "description": "TingoDB session store for Connect",
+  "keywords": ["connect", "tingo", "tingodb", "session", "express"],
+  "author": "Frank Hassanabad <frankhassanabad@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/frankhassanabad/connect-tingo.git"
+  },
+  "bugs": {
+      "url": "https://github.com/kcbanner/connect-tingo/issues"
+  },
+  "dependencies": {
+    "tingodb": "0.1.x"
+  },
+  "directories": {
+      "lib":"./lib"
+  },
+  "devDependencies": {
+    "connect": ">= 1.x"
+  },
+  "main": "./lib/connect-mongo",
+  "engines": "node >= 0.4.x"
+}
