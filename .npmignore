@@ -1,0 +1,12 @@
+.npmignore
+.idea
+.travis.yml
+connect-tingo.iml
+
+History.md
+Makefile
+Readme.md
+
+examples/
+support/
+test/

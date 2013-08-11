@@ -1,7 +1,7 @@
 # connect-tingo
 
   TingoDB session store for Connect.  This is a complete copy of [connect-mongo](https://github.com/kcbanner/connect-mongo),
-  but using [tingo] (https://github.com/sergeyksv/tingodb) instead.
+  but using [tingo](https://github.com/sergeyksv/tingodb) instead.
 
 ## Installation
 
@@ -21,7 +21,7 @@ With express:
     app.use(express.session({
         secret: settings.cookie_secret,
         store: new TingoStore({
-          db: settings.db
+          db: settings.folderLocation
         })
       }));
 
