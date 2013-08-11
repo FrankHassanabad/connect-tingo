@@ -20,6 +20,5 @@
   "devDependencies": {
     "connect": ">= 1.x"
   },
-  "main": "./lib/connect-mongo",
   "engines": "node >= 0.4.x"
 }
