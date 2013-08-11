@@ -23,7 +23,7 @@ With express:
         store: new TingoStore({
           db: settings.folderLocation
         })
-      }));
+    }));
 
 With connect:
 
