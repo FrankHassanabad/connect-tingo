@@ -1,6 +1,6 @@
 {
   "name": "connect-tingo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "TingoDB session store for Connect",
   "keywords": ["connect", "tingo", "tingodb", "session", "express"],
   "author": "Frank Hassanabad <frankhassanabad@gmail.com>",
