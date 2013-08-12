@@ -4,6 +4,7 @@
   "description": "TingoDB session store for Connect",
   "keywords": ["connect", "tingo", "tingodb", "session", "express"],
   "author": "Frank Hassanabad <frankhassanabad@gmail.com>",
+  "license" : "MIT",
   "repository": {
       "type": "git",
       "url": "https://github.com/frankhassanabad/connect-tingo.git"
